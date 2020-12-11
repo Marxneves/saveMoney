@@ -7,3 +7,7 @@ Esse projeto foi criado enquanto estava começando a estudar React Js e vi que p
 ## Link para a aplicação: [Save Money](https://marxneves.github.io/saveMoney/)
 
 ![](saveMoney.gif)
+
+Desenvolvido por Marx Khristie.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marxkhristie)](https://www.linkedin.com/in/marxkhristie)
